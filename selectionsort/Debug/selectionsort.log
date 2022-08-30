@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\nourhan waleed\source\repos\selectionsort\Source.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nourhan waleed\source\repos\selectionsort\Source.cpp(17,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nourhan waleed\source\repos\selectionsort\Source.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  selectionsort.vcxproj -> C:\Users\nourhan waleed\source\repos\selectionsort\Debug\selectionsort.exe
